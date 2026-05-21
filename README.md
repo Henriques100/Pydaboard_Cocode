@@ -9,3 +9,5 @@ Depois, as siglas dessas categorias são substituídas por nomes descritivos em 
 
 Nesta segunda aula, chamada Preparação e Limpeza de Dados, utilizaremos a mesma biblioteca mencionada na primeira aula.
 Nesta aula, foram apresentadas técnicas de preparação e limpeza de dados utilizando Pandas em Python. O código identificou valores nulos com métodos como isnull() e realizou diferentes formas de tratamento desses dados, como substituição pela média, mediana, preenchimento sequencial (ffill e bfill) e uso de valores padrão em campos categóricos. Por fim, foi utilizado o método dropna() para remover linhas com dados ausentes, garantindo um conjunto de dados mais limpo e consistente para análise.
+
+Nesta aula, foram utilizadas as bibliotecas Matplotlib, Seaborn e Plotly em Python para criar visualizações de dados. Foram desenvolvidos gráficos de barras, histogramas, boxplots e gráficos de pizza para analisar distribuição salarial, níveis de senioridade, tipos de trabalho e médias salariais por país. A aula mostrou como a visualização de dados ajuda a identificar padrões, tendências e diferenças de forma clara e intuitiva.
